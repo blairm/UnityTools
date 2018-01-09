@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Atmosphere
+  m_Shader: {fileID: 4800000, guid: 3c524649881dc184b9f78622be8281d7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _G: -0.99
+    - _G2: 0.98010004
+    - _InnerRadius: 99
+    - _InnerRadius2: 9801
+    - _Km4PI: 0.012566372
+    - _KmESun: 0.015000001
+    - _Kr4PI: 0.03141593
+    - _KrESun: 0.037499998
+    - _OuterRadius: 98.7
+    - _OuterRadius2: 10506.25
+    - _Scale: 0.2857143
+    - _ScaleDepth: 0.25
+    - _ScaleOverScaleDepth: 1.1428572
+    - _hdrExposure: 0.35
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _InvWavelength: {r: 5.6020455, g: 9.473285, b: 19.643803, a: 0}

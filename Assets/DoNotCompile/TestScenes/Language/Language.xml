@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textData>
+	<section name="General">
+		<text name="Title" value="TITLE"/>
+	</section>
+	<section name="Section0">
+		<text name="Text0" value="TEXT0"/>
+		<section name="SubSection0">
+			<text name="Text0" value="TEXT0"/>
+		</section>
+		<text name="Text1" value="TEXT1"/>
+		<section name="SubSection1">
+			<text name="Text0" value="TEXT0"/>
+		</section>
+		<text name="Text2" value="TEXT2"/>
+	</section>
+</textData>

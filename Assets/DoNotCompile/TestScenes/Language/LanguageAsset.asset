@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae41c4b19fc9a9844b5f7aa32991851b, type: 3}
+  m_Name: LanguageAsset
+  m_EditorClassIdentifier: 
+  keyArray:
+  - General/Title
+  - Section0/Text0
+  - Section0/SubSection0/Text0
+  - Section0/Text1
+  - Section0/SubSection1/Text0
+  - Section0/Text2
+  valueArray:
+  - TITLE
+  - TEXT0
+  - TEXT0
+  - TEXT1
+  - TEXT0
+  - TEXT2
+  XMLFile: {fileID: 4900000, guid: 46d6efe8d6e33c04daa14f7721167105, type: 3}
